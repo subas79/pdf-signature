@@ -21,13 +21,3 @@ Welcome to the PDF Signature app, a cutting-edge solution for adding professiona
 1. Clone the repository.
 2. Install dependencies: `npm install`.
 3. Start the app: `npm start`.
-
-For more details, refer to our [comprehensive documentation](link-to-docs).
-
-## Contributing
-
-We welcome contributions! Check out our guidelines in the [Contributing](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
