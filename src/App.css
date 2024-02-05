@@ -1,0 +1,18 @@
+body {
+  font-family: "Open Sans";
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+.doc{
+  position:static !important;
+}
+
+.react-pdf__Page__textContent{
+  user-select: none;
+}
